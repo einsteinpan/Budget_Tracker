@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">記帳小幫手</string>
+
+    <!-- 在 res/values/strings.xml 中添加 -->
+    <string-array name="category_array">
+        <item>預算</item>
+        <item>薪水</item>
+        <item>飲食</item>
+        <item>服飾</item>
+        <item>居住</item>
+        <item>交通</item>
+        <item>教育</item>
+        <item>娛樂</item>
+        <item>社交</item>
+        <item>加油</item>
+        <!-- 添加其他類別 -->
+    </string-array>
+
+    <string name="chart_analysis">圖表分析</string>
+    <string name="close">Close</string>
+</resources>
